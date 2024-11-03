@@ -1,0 +1,25 @@
+{
+    "name": "medical-data-sharing",
+    "version": "1.0.0",
+    "description": "A secure platform for sharing medical data using Firebase.",
+    "main": "app.js",
+    "scripts": {
+      "start": "firebase serve",
+      "deploy": "firebase deploy"
+    },
+    "keywords": [
+      "firebase",
+      "medical",
+      "data sharing",
+      "web app"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "firebase": "^9.0.0"  // Ensure this version matches your needs
+    },
+    "devDependencies": {
+      "firebase-tools": "^9.0.0"
+    }
+  }
+  
